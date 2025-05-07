@@ -1,6 +1,6 @@
 # Voice Translator App
 
-A basic voice translation application created with MIT App Inventor. It enables translation between English and French using speech input and output.
+A basic voice translation application created with MIT App Inventor. It enables translation between English and any other desired language using speech input and output. But in this example we will take English to French
 
 ## Overview
 
